@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FynniX
-- 👀 I’m interested ... in Full Stack JS and native addons. 
-- 🌱 I’m currently learning ... docker and kubernetes
-- 💞️ I’m looking to collaborate on ... Im open for everything
-- 📫 How to reach me... Contact me on Discord: FynniX | Fynn#3306 or Mail: info@fynnhaupt.de
+- 👀 I’m interested ... Anything web-related :)
+- 🌱 I’m currently learning ... Improving in working with ai
+- 💞️ I’m looking to collaborate on ... Anything special :)
+- 📫 How to reach me... Contact me on Discord: FynniX | Fynn#3306 or Mail: fynn.haupt2@gmail.com
